@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Richard - a hobbyist software developer from Manchester in the ☀️ sunny North West of the United Kingdom .
+
+By day I am a professional Product Manager, but my GitHub is entirely for my personal use (🏢 no work here!) .
+
+I'm interested in a number of things including art, music and programming. So, at the moment I am learning more about game development thorugh the Unity and Godot engines, and tinkering with other tools such as MonoGame.
+
+
 <!--
 **richardpjames/richardpjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
