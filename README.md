@@ -6,6 +6,7 @@ By day I am a professional Product Manager, but my GitHub is entirely for my per
 
 I'm interested in a number of things including art, music and programming. So, at the moment I am learning more about game development thorugh the Unity and Godot engines, and tinkering with other tools such as MonoGame.
 
+In the past I have also dabbled in web development and so I am fairly proficient with NodeJS and the associated tools (JavaScript, HTML, CSS etc.) but it's not something I am particularly concentrating on at the moment!
 
 <!--
 **richardpjames/richardpjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
