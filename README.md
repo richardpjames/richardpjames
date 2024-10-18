@@ -8,6 +8,10 @@ I'm interested in a number of things including art, music and programming. So, a
 
 In the past I have also dabbled in web development and so I am fairly proficient with NodeJS and the associated tools (JavaScript, HTML, CSS etc.) but it's not something I am particularly concentrating on at the moment!
 
+<div style="display: flex">
+<img src="https://github.com/richardpjames/Demon-Slayer/raw/master/README/screenshot.png" style="width: 40%">
+</div>
+
 <!--
 **richardpjames/richardpjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
